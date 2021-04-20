@@ -11,3 +11,5 @@ let println = (str) => {
 };
 
 println(string);
+
+console.log("Nice!!!");
